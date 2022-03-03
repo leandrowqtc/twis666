@@ -1,5 +1,4 @@
-- 👋 Hi, i'm Twisted, twis, twis666, even Sandro
-- 🇧🇷 Im from Brazil
-- 👀 I'm interested in studying computer science at college, so I started studying programming before my college exam. If you have any tip send me.
-- 🌱 I’m currently learning Python
+- 👋 Hello, my name is Leandro and I am a computer science student and I am Brazilian;
+- I study computer science, so i'm here to improve my skills. If you have any tip send me;
+- I’m currently learning JS;
 - 📫 Discord: Sandro#0133
